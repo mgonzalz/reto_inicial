@@ -1,6 +1,13 @@
 # Reto Inicial
 ## Repositorio
 
+Link: https://github.com/mgonzalz/reto_inicial.git
+
+Usuario: @mgonzalz
+
+- ejercicio01: Se trata del ejercicio del total de posibilidades válidas de un caballo caballo en una cantidad N de movimientos.
+- ejercicio02: Se trata del ejercicios de las N-Reinas. Colocar N reinas en un tablero de nxn sin que se amenacen entre ellas.
+
 ## Soluciones: Ejercicio Caballo
 
 | Cantidad de movimientos | Posibilidades válidas |
