@@ -24,7 +24,7 @@ def numeros(n):
         posibilidades[i] = posibles_movimientos(i, n)
     return posibilidades
 
-n = 21
+n = 32
 total = numeros(n)
 print(total)
 print(sum(total))
